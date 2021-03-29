@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\res\\drawable-anydpi-v26\\ic_launcher.xml"
+    }
+]

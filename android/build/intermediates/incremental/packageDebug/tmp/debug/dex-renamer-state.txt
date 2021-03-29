@@ -1,0 +1,4 @@
+#Wed Jan 15 00:29:05 EET 2020
+base.0=C\:\\Users\\YILMAZ\\Desktop\\Mercury Way\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
